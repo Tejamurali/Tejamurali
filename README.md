@@ -12,12 +12,13 @@
 ###
 
 <div align="center">
+ <img src="https://komarev.com/ghpvc/?username=Tejamurali&label=Profile%20views&color=0e75b6&style=flat" alt="Tejamurali" /> </p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
 
 ###
 
-<h1 align="center">Hello! I'm Teja Murali, someone who enjoys coding and playing sports in my free time.</h1>
+<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="31">, I'm Teja Murali, someone who enjoys coding and playing sports in my free time.</h1>
 
 ###
 
@@ -25,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 🌱 I’m currently learning **Backend Development**<br>- ⚡ In my free time I ...</p>
 
 ###
 ## Github stats 📊
