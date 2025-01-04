@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/02/04193006/CEH.jpg"  />
+<img align="center" alt="coding" width="500" height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGM3YzlkYTVkMDJiNTYwZjA3ZTUzMTk5ZDg0OGRlYTFmNGYzN2Y4MiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
 
