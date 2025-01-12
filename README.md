@@ -1,4 +1,4 @@
-<div align="center">
+github <div align="center">
 <img align="center" alt="coding" width="500" height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGM3YzlkYTVkMDJiNTYwZjA3ZTUzMTk5ZDg0OGRlYTFmNGYzN2Y4MiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
@@ -36,7 +36,7 @@
   <br/>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Tejamurali&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
-  <div align="center">
+ 
   <img src="https://github-readme-stats.vercel.app/api?username=Tejamurali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
 
