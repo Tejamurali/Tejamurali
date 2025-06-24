@@ -26,7 +26,7 @@ github <div align="center">
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 🌱 I’m currently learning **Backend Development**<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Teja Murali from Hyderabad<br><br>- 🔭 I’m working as Java Developer<br>- 🌱 I’m currently learning **Backend Development**<br>- ⚡ In my free time I will play sports</p>
 
 ###
 ## Github stats 📊
